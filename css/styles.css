@@ -1,13 +1,15 @@
 h2{
     color:white;
     
-    padding-top: 2%;
-    margin-left: 40%;
+    
+    margin-left: 12%
 }
 h1{
-    color: white;
+    color:white;
     padding-top: 40%;
     margin-left: 30%;
+    padding-top: 10%;
+    
 
 }
 .div1{
@@ -50,26 +52,39 @@ h1{
     background-color: black;
 }
 .img1{
-    width: 50%;
-    height: 130%;
-    transform:rotate(25deg);
+    width: 15%;
+    height: 87%;
+    transform:rotate(27deg);
     margin-left: 3%;
+    padding-bottom: 10%;
+    margin-right: 30%;
+    position:absolute;
 
 }
 @media (max-width:900px){
     .img1{
         transform: rotate(0deg);
-        margin-left: 20%;
+        margin-left: 45%;
         align-items:baseline;
+        position: relative;
+        width: 50%;
+        height: 120%;
+        padding-bottom: 30%;
+        margin-top: 1%;
+        
     }
     h1{
         text-align: center;
     }
     .d1{
         text-align: center;
+        margin-left: 47%;
+        
+        
     }
     .d2{
         text-align: center;
+        margin-left: 2%;
     }
 
 }
@@ -78,12 +93,15 @@ h1{
     background-color: white;
     padding-top: 5%;
     text-align: center;
+    margin-bottom: 8%;
 }
 #title{
  background-color: rgba(56, 11, 219, 0.884);
  background-size: 20%;
+ padding-right: 20%;
+ margin-bottom: 50%
+ padding-top: 2%;
  
-
 }
 #Myapp{
     background-color: rgba(56, 11, 219, 0.884);
@@ -195,4 +213,8 @@ color: rgb(255, 255, 255);
 
 border-radius: 10%;
 
+}
+.nav-link{
+
+    text-align: center;
 }
