@@ -75,7 +75,8 @@ h1{
 #testimonials{
     background-color: rgba(56, 11, 219, 0.884);
     padding-left: 42%;
-    padding-top: 2%;
+    margin-left: -5%;
+    
     
 }
 .img2{
@@ -103,6 +104,8 @@ padding-top: 5%;
     background-color:rgba(56, 11, 219, 0.884);
     padding-top: 8%;
     padding-left: 30%;
+    
+    
 }
 .mtv-logo{
     padding-top: 5%;
