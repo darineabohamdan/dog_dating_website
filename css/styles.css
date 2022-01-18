@@ -59,6 +59,7 @@ h1{
     background-color: white;
     padding-top: 5%;
     text-align: center;
+    padding-bottom: 5%;
     
 }
 
@@ -124,6 +125,7 @@ padding-top: 5%;
     background-color: rgba(56, 11, 219, 0.884);
     color: white;
     text-align: center;
+    padding-bottom: 5%;
 
 }
 .d3{
