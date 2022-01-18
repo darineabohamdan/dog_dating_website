@@ -19,8 +19,8 @@ h1{
 }
 .div2{
     color: white;
-    opacity:0.4;
-    font-weight: 900;
+    opacity:0.1;
+    
 
 }
 .div2:hover{
@@ -219,4 +219,5 @@ border-radius: 10%;
 .nav-link{
 
     text-align: center;
+    font-weight: bold;
 }
