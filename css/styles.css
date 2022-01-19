@@ -28,23 +28,7 @@ h1{
     color:white;
 }
 
-.d1:hover{
-    background-color: transparent;
 
-        }
-
-
-.d2{
-    color:white;
-    background-color: transparent;
-    border-radius: 4px;
-    border-width: 1px;
-    border-color: white;
-    margin-bottom: 10%;
-}
-.d2:hover{
-    background-color: black;
-}
 .img1{
     width: 15%;
     
@@ -128,17 +112,11 @@ padding-top: 5%;
     color: white;
     text-align: center;
     padding-bottom: 5%;
+    padding-top: 5%;
 
 }
     
-}
 
-
-.lasttitle{
-    margin-top: 5%;
-    padding-top: 3%;
-
-}
 #footer{
     text-align: center;
     margin-top: 3%;
